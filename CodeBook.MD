@@ -1,4 +1,4 @@
-# The Codebook of the Tidy Dataset
+# The CodeBook of the Tidy Dataset
 
 ## Brief Details of Subjects and Activities:
 * There are a total of 30 participants, within an age bracket of 19-48 years. 
