@@ -57,4 +57,4 @@ tidyDataset <- dcast(meltedDataset, subject + activity ~ variable, mean)
 
 ##Export tidyDataset to .csv and .txt
 write.csv(tidyDataset, file = "tidy.csv")
-write.table(tidyDataset, file = "tidy.txt")
+write.table(tidyDataset, file = "tidy.txt", row.name = FALSE)
