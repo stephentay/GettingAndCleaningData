@@ -12,8 +12,8 @@
 * The prefix 'f' denotes that a Fast Fourier Transform (FFT) was applied to these signals.
 
 ## The 68 Variables
-1. "subject" - the ID of the 30 participants
-2. "activity" - each participant performed the following six activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+* "subject" - the ID of the 30 participants
+* "activity" - each participant performed the following six activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
 ### The Remaining 66 Signal Variables
 The remaining 66 signal variables are the average values of the signals for each subject and activity.
